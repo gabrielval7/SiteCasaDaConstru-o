@@ -1,0 +1,144 @@
+body{
+	background: url("https://img.elo7.com.br/product/zoom/2254DF8/papel-de-parede-autocolante-tijolos-fundo-antigos-bege-papel-de-parede-quarto-crianca.jpg") repeat right top fixed;
+}
+#cabecalho{
+	background-color: #6B5F4E;
+	height: 160px;
+} 
+#menu{
+	position: relative;
+	left: 950px;
+	bottom: 150px;
+}
+h1{
+	color: white;
+	margin: 10px;
+}
+#logo{
+	display: inline;
+	margin: 10px;
+}
+
+h2{
+	padding: 5px;
+	color: white;
+}
+h3{
+	color: white;
+	margin-top: -5px;
+	margin-left: 7px;
+}
+
+/*.opacidade{
+	opacity: 0.6;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height : auto;
+}*/
+.demo-wrap {
+  overflow: hidden;
+  position: relative;
+}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+#corpo{
+	margin-top: 20px;
+	padding: 10px;
+	background-color: #6B5F4E;
+} 
+#promocoes{
+	margin-left: 50px;
+	padding: 20px;
+}
+th{
+	color: white;
+}
+.espacamento{
+	margin: 5px;
+	padding: 5px;
+}
+#divBusca{
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+  position: relative;
+  left: 450px;
+  bottom: 90px;
+}
+
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:14px;
+  border:none;
+  height:32px;
+  width:190px;
+}
+
+#btnBusca{
+	position: relative;
+  border:none;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:70px;
+  font-weight:bold;
+  background:#5F9EA0;
+  left: 105px;
+}
+.botoes{
+	border-radius:7px 7px 7px 7px;
+  font-weight:bold;
+  border: none;
+  height: 25px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+#rodape{
+	background-color: #4E606B;
+}
+hr{
+	border-color: black;
+}
+.bordering{
+  border: 10px solid transparent;
+  margin: 5px;
+  padding: 5px;
+  border-image: url(Imagens/border.png) 30 round;
+}
+#whats{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 60px;
+}
+.imagens{
+	margin: 15px;
+	border-radius:7px 7px 7px 7px;
+
+}
+.noticias{
+	padding: 5px;
+	margin: 5px;
+	display: inline-block;
+	background-color: #4E606B;
+}
+#informacoes{
+	margin-left: 250px;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
